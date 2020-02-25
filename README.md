@@ -6,8 +6,8 @@ Growth Mindset is scientifically supported by studies in **neural plasticity**. 
 
 >With practice, neural networks grow new connections, strengthen existing ones, and build insulation that speeds transmission of impulses. >These neuroscientific discoveries have shown us that we can increase our neural growth by the actions we take, such as using good >strategies, asking questions, practicing, and following good nutrition and sleep habits.'''' (https://www.mindsetworks.com/science/)
 
-Being a strong Type-A personality and embodying the good and bad traits of a Leo, I am very harsh on myself when it comes to learning something new. I need to remember to be kind to myself as much as I would be to any of my fellow students or student I was teaching who expressed doubt.  There are at least 3 ways I can foster a positive Growth Mindset in myself during my current job as CF Student:
+Being a strong Type-A personality and embodying the good and bad traits of a Leo, I am very harsh on myself when it comes to learning something new. I need to remember to be kind to myself as much as I would be to any of my fellow students or a student I was teaching who expressed doubt.  There are at least 3 ways I can foster a positive Growth Mindset in myself during my current job as CF Student:
 
-* "I made a mistake" becomes "I'm new at this"
+* ~~"I made a mistake"~~ becomes "I'm new at this"
 * Remembering that my work will never be perfect and **sleep** is just as important that those last few tweaks to the project
 * Setting up a routine to ensure a work-life balance
