@@ -1,6 +1,6 @@
 # What is Growth Mindset?
 ### Summarized by Kim Damalas, github @kimmyd70
-![zenbrain](https://www.google.com/url?sa=i&url=http%3A%2F%2Feureka.criver.com%2Fcute-brain-cartoon-2%2F&psig=AOvVaw2gz4qMiGiYKs4askcqIE00&ust=1582750162594000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCTt_vJ7ecCFQAAAAAdAAAAABAO)
+zen brain.jpg
 (:camera_flash: Getty Images/iStockphoto)
 
 Growth Mindset is a method of turning "I can't" thoughts into motivational "I can" that leads to higher achievement. It is a way of learning that combines positive self-reflection on the part of the student and positive reinforcement, specifically building a supportive learning environment, on the part of the instructor. Using stacked lessons that build on each other and encouraging students to change their inner thoughts of doubt to positivity, teachers can foster a positive attitude toward learning where the student feels safe, valued, and rewarded.  With baby steps, small victories, and self-introspection the student starts to feel more confident and that confidence breeds bigger victories and a willingness to tackle bigger challenges. Socially, Growth Mindset thinking is a belief that intelligence is not set by birth status or physical characteristics.  Rather, every person can learn given the right tools and environment.
