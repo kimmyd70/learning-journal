@@ -13,3 +13,12 @@ Available text editors are native programs already on your computer such as Text
 We will be using VS Code in this class.  I just downloaded it from [VS Code](https://code.visualstudio.com/docs/?dv=osx)
 
 I'd **LOVE** if I could use dreamweaver to code then copy/paste into GitHub it would be AMAZING, but I guess I'll become familiar with Visual Studio :unamused:
+
+Terminal--oh man!!
+Terminal will become an easy way to navigate my computer without using the GUI.  
++ *pwd* tells you where you are  
++ *ls* lists the files in that directory
++ *touch* opens the file
++ *mkdir* makes a directory 
++ *cd <filename>* gets you into the file  
++ *cd ..* gets you out one level
