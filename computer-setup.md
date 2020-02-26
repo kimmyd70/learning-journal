@@ -1,4 +1,4 @@
-#How to choose a text editor
+# How to choose a text editor
  I don’t think that it truly matters as to which text editor you use. Yes,
 some text editing software comes with features that other text editing
 software does not. But for the most part, they’re all pretty similar.
