@@ -8,8 +8,8 @@
 >You can? Then fantastic, clearly the text editor you’ve chosen got the
 >job done. [Article by Older Coder](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
 
-
+Available text editors are native programs already on your computer such as TextEdit or Notepad, 3rd party software such as Microsoft Visual Studio Code or Notepad +++.  You get what you pay for in capability--native programs give little to no help with syntax fill in or finding mistakes
 
 We will be using VS Code in this class.  I just downloaded it from [VS Code](https://code.visualstudio.com/docs/?dv=osx)
 
-I'd **LOVE** if I could use dreamweaver to code then copy/paste into GitHub
+I'd **LOVE** if I could use dreamweaver to code then copy/paste into GitHub it would be AMAZING, but I guess I'll become familiar with VS
