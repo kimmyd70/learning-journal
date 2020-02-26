@@ -12,4 +12,4 @@ Available text editors are native programs already on your computer such as Text
 
 We will be using VS Code in this class.  I just downloaded it from [VS Code](https://code.visualstudio.com/docs/?dv=osx)
 
-I'd **LOVE** if I could use dreamweaver to code then copy/paste into GitHub it would be AMAZING, but I guess I'll become familiar with VS
+I'd **LOVE** if I could use dreamweaver to code then copy/paste into GitHub it would be AMAZING, but I guess I'll become familiar with Visual Studio :unamuzed:
