@@ -11,4 +11,6 @@ Here are some highlights and takeaways:
  
  * You can use the Terminal to clone a repository you've set up on GitHub in order to work on your computer with a repository’s URL: `$ git clone https://github.com/test`
  
+ 
+ 
 ### Use this! [Git keyboard shortcuts](https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts)
