@@ -1,3 +1,8 @@
+ # Table of Contents
+ - [markdown](cheatsheets.md)
+ - [Computer Setup](computer-setup.md)
+ - [GitHub info](git-github.md)
+ 
  [Link to subpage with Day 2 journal post](computer-setup.md)
  
   [Link to subpage with Day 3 journal post](git-github.md)
