@@ -12,6 +12,6 @@ Here are some highlights and takeaways:
  * You can use the Terminal to clone a repository you've set up on GitHub in order to work on your computer with a repository’s URL: `$ git clone https://github.com/test`
  
  * GitHub manages files using a lifecycle that tracks what state your file is in.  Perfect for DVCS!
- ![GitHub lifecycle](
+ ![GitHub lifecycle](https://user-images.githubusercontent.com/61428656/75408991-3f7dc080-58cc-11ea-9ca9-bc06a25c1c08.png)
  
 ### Use this! [Git keyboard shortcuts](https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts)
