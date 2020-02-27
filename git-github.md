@@ -7,3 +7,4 @@ Here are some highlights and takeaways:
     - git command --help
     - man git-command
     
+### Use this! [Git keyboard shortcuts](https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts)
