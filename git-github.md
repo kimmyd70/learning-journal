@@ -23,5 +23,7 @@ Here are some highlights and takeaways:
 * Pushing Changes: `$ git push origin master`
     - This command pushes changes from the local “master” branch to the remote repository named “origin”.
     - For cloned repositories, Git will automatically give the name “origin” to the server from which you cloned and the name “master” to your local repository. However, these names can be changed by the user.
+    
+* When you are not ready to commit changes but do not want to lose them either, `git stash` is a great option. This command temporarily removes changes and hides them, giving you a clean working directory. When you are ready to continue working on the changes, simply use the `git stash apply` command to retrieve the hidden changes. 
  
 ### Use this! [Git keyboard shortcuts](https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts)
