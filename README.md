@@ -1,4 +1,5 @@
  [Link to subpage with Day 2 journal post](computer-setup.md)
+ 
   [Link to subpage with Day 3 journal post](git-github.md)
 # What is Growth Mindset?
 ### Summarized by Kim Damalas, github @kimmyd70
