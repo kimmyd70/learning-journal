@@ -14,4 +14,14 @@ Here are some highlights and takeaways:
  * GitHub manages files using a lifecycle that tracks what state your file is in.  Perfect for DVCS!
  ![GitHub lifecycle](https://user-images.githubusercontent.com/61428656/75408991-3f7dc080-58cc-11ea-9ca9-bc06a25c1c08.png)
  
+ Several commands are useful when working with the files in Terminal:
+* Track one file only by using the following format: `git add filename`
+* Track all files in a repository by using the following command: `$ git add *`
+* See information regarding changes to be committed when using the git status command: `$ git status`
+* Committing a File: `$ git commit -m “made change x,y,z”` with a message on what changes were made
+* Committing All Changes: `$ git commit -a`
+* Pushing Changes: `$ git push origin master`
+    - This command pushes changes from the local “master” branch to the remote repository named “origin”.
+    - For cloned repositories, Git will automatically give the name “origin” to the server from which you cloned and the name “master” to your local repository. However, these names can be changed by the user.
+ 
 ### Use this! [Git keyboard shortcuts](https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts)
