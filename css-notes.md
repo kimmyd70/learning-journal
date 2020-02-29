@@ -1,4 +1,6 @@
-# Notes re: CSS
+Notes re: CSS
+(p.s. I'm familiar with css from previous schooling)
+
 
 CSS is usually in a separate doc, although they can be embedded
 
