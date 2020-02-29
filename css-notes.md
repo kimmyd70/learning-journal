@@ -37,3 +37,5 @@ Inheritance
 + Force inheritance by using inherit language: {padding: inherit;}
 
 Different browsers may display different css quirks or bugs--simple is better
+
+Look at syntax on colors Ch11 when needed
