@@ -7,5 +7,6 @@
  - [Learning Markdown](cheatsheets.md)
  - [Computer Setup](computer-setup.md)
  - [GitHub info](git-github.md)
+ - [CSS notes] (css-notes.md)
  
  
