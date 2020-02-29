@@ -32,7 +32,7 @@ See p 238 for selectors
 Cascading
 + Last rule: if thow selectors are identical, last takes precedence
 + Specificity: the more specific rule takes precedence
-+ Add !important after any property value to apply first
++ ~Add !important after any property value to apply first~ (bad practice)
 
 Inheritance
 + Children inherit property values from parents
