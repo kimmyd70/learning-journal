@@ -9,4 +9,4 @@
   + [GitHub info](git-github.md)
   + [CSS notes](css-notes.md)
   + [HTML notes](html-notes.md)
-  + [Architecture and Logic](how-computer-work.md)
+  + [Architecture and Logic](how-computers-work.md)
