@@ -10,3 +10,4 @@
   + [CSS notes](css-notes.md)
   + [HTML notes](html-notes.md)
   + [Architecture and Logic](how-computers-work.md)
+  + [Function](function-notes.md)
