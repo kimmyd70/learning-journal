@@ -33,6 +33,7 @@ Functions see 90-95
 + group a sweries of statements together ot perform a specific task
 + some need pieces of info called **parameters**
 + when you write a fn that gives a response that's a **return value**
++ return statement is not always needed
 + declaration using keyword: function.name() {stuff to do}
 + called with name(); if needs info that goes in the ()
 + **always start with lower case**
