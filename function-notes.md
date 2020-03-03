@@ -1,3 +1,6 @@
+![function pic](function-notes.md)
+
+
 Scripts:
 + series of instructions
 + specificity is key
