@@ -12,3 +12,4 @@
   + [Javascript notes](javascript.md)
   + [Architecture and Logic](how-computers-work.md)
   + [Function](function-notes.md)
+  + [Loops](loop-notes.md)
