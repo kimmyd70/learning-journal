@@ -26,3 +26,5 @@ for (var i=0; i <1 0; i++) do stuff:
 
 See p 172-173 for pictoral of the above loop
 
+NaN (' ') = false because evaluates to **zero** which IS a number (use isNaN built in function)
+
