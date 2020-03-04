@@ -26,3 +26,4 @@ declare variable and assign value (same statement or separately)
 
 understand how the different types of variable interact (string, numeric, boolean)
 
+Remember = vs == vs === (assigned, equal to, strictly equal)
