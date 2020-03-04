@@ -20,6 +20,7 @@ Loops: check a condition, true runs the code block, check again, true runs code 
 for (var i=0; i <1 0; i++) do stuff:
 + **initializes** i to 0
 + checks to see if **condition** i is < 0 is true
++ **runs the block of code**
 + **updates** by incrementing i by 1
 + re-runs until i !< 0
 
