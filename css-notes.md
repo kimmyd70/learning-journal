@@ -27,7 +27,6 @@ Use **inline** CSS with style tag <p style=...>
 Use **internal** CSS with same syntax as external style sheet (familiar); usually put in HEAD
 
 See p 238 for selectors
-# insert picture here
 ![selectors](https://user-images.githubusercontent.com/61428656/75612706-fcde0300-5ada-11ea-9d12-02edcae7ab8a.png)
 )
 
