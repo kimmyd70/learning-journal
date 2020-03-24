@@ -22,7 +22,9 @@ Use external CSS with a link
 + href
 + rel
 
-Use internal CSS with style tag
+Use **inline** CSS with style tag <p style=...>
+
+Use **internal** CSS with same syntax as external style sheet (familiar); usually put in HEAD
 
 See p 238 for selectors
 # insert picture here
